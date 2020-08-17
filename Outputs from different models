@@ -1,0 +1,13 @@
+Model Outputs rmse
+
+1. Linear Regression :
+    Mean : 5.037482786117751
+    Steandard deviation : 1.059438240560696
+
+2. Decision Tree :
+    Mean : 4.228913109774583
+    Steandard deviation : 0.7361982154390859
+
+3. Random Forest Regression :
+    Mean : 3.324234898116378
+    Steandard deviation : 0.7150120124004204
